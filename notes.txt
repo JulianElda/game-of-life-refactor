@@ -1,0 +1,2 @@
+-moved max rows & cells to config object
+-used constructor patterns for cell coordinates
